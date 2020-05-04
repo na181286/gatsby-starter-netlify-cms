@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: The Quiz of Your Life
+title: The Quiz of Your Life!!!
 image: /img/independence_day_resurgence_city_apocalypse_109922_1400x1050.jpg
 heading: "This is the quiz of you life "
 subheading: Support all kinds of way of life from A to Z
